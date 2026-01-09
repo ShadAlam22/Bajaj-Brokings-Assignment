@@ -15,7 +15,7 @@ This SDK provides a simplified trading backend that allows users to:
 
 ### Technology Stack
 - **Framework:** FastAPI (modern, fast web framework)
-- **Language:** Python 3.x
+- **Language:** Python 3.10.0
 - **Data Validation:** Pydantic models
 - **Storage:** In-memory dictionaries and lists
 - **API Documentation:** Auto-generated Swagger UI

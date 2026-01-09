@@ -33,7 +33,7 @@ BAJAJ_ASSIGNMENT/
 ├── test_api.py             # Automated API test suite
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
-└── PROJECT_EXPLANATION.md # Detailed documentation
+
 ```
 
 ### Key Design Decisions

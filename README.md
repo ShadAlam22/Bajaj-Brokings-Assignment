@@ -1,4 +1,4 @@
-# Trading API Wrapper SDK - Bajaj Broking Assignment
+# Trading API Wrapper SDK 
 
 A lightweight, Python-based REST API wrapper that simulates core trading platform functionalities. This project implements instrument management, order placement, trade execution, and portfolio tracking with in-memory storage.
 
@@ -22,7 +22,7 @@ This SDK provides a simplified trading backend that allows users to:
 
 ### Project Structure
 ```
-BAJAJ_ASSIGNMENT/
+Fastapi-Trading-API/
 ├── app/
 │   ├── instruments.py      # Instrument listing endpoints
 │   ├── orders.py           # Order management and placement
